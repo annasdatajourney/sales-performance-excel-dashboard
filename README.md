@@ -1,8 +1,15 @@
 # Sales Performance – Excel Dashboard
 
-An interactive Excel dashboard analysing sales performance across stores, warehouses, and time periods using transactional sales data.
+This project demonstrates how Microsoft Excel can be used as a practical analytical tool to explore sales performance and identify meaningful business patterns.
 
-This project focuses on identifying revenue concentration, sales trends, and potential optimisation opportunities, with an emphasis on clear business insights rather than purely technical output.
+Using transactional sales data, the analysis focuses on revenue distribution across stores and warehouses, as well as time-based performance trends.
+
+The primary objective was to move beyond simple reporting and highlight revenue concentration, operational dependencies, and potential optimisation areas.
+
+The analysis was built using structured tables, calculated fields, PivotTables, and PivotCharts, with interactive slicers to support flexible exploration.
+
+The final dashboard is designed for non-technical stakeholders to support discussions around performance concentration, operational prioritisation, and seasonal planning.
+
 
 ---
 
